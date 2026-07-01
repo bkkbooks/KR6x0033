@@ -1,0 +1,838 @@
+canonical_identifier: bkk:krp/KR6x0033/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0033/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大王統史
+  identifiers:
+    krp: KR6x0033
+    cbeta: N65n0033
+    cbeta_old_id: N65n0033
+    authorityid: CA0008297
+    json_key: N0033
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N65/N65n0033.xml
+    old_id: N65n0033
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0033_001-N.yaml, hash: 'sha256:ecdfb2914f82b11b85e83793e2ffd22628428d404495ce50a76b6f0c95b77304'}
+  - {seq: 2, filename: KR6x0033_002-N.yaml, hash: 'sha256:92c65f200378982b210e5edc516ec7563f1505fd028cbb7794fa6d20382fb759'}
+  - {seq: 3, filename: KR6x0033_003-N.yaml, hash: 'sha256:c28c6659423f52f12c29683f6705d9bf6dcf47cb1d1b7de5870f1a4b497ae80f'}
+  - {seq: 4, filename: KR6x0033_004-N.yaml, hash: 'sha256:49862e9fe96a0b80c4dab7673e2cfec0fa38f33f3c104e44a6886493f60ebb68'}
+  - {seq: 5, filename: KR6x0033_005-N.yaml, hash: 'sha256:04a8c4d06f17f2ae2468a334389af9960d137b5eeb7cc8a207b457f941bc1c96'}
+  - {seq: 6, filename: KR6x0033_006-N.yaml, hash: 'sha256:8b5638af36f9e8b4288e601d4575eec40d0d41131b846ec3e7fba7694ec9292a'}
+  - {seq: 7, filename: KR6x0033_007-N.yaml, hash: 'sha256:57bfc45c8c8bfecb48a8a09fc2bf545ca72db7fbc58779027fb226d6183559b7'}
+  - {seq: 8, filename: KR6x0033_008-N.yaml, hash: 'sha256:d222b32f2068315794c95503a06ac257ff3fef59a33ddab52221561bae0a10c0'}
+  - {seq: 9, filename: KR6x0033_009-N.yaml, hash: 'sha256:8ee485dd98bfa7b69978aae92a7b3157584151b4f791d2dac2964aeef52e15d3'}
+  - {seq: 10, filename: KR6x0033_010-N.yaml, hash: 'sha256:0a18854c379680db063321e4473197ae8eb02c919813015cfe119b3592e38561'}
+  - {seq: 11, filename: KR6x0033_011-N.yaml, hash: 'sha256:8fe8f4c84fb511d6fcf4d9d57146b79bddf143f34513258ae1865ca9b94b6188'}
+  - {seq: 12, filename: KR6x0033_012-N.yaml, hash: 'sha256:67e17dfa9c9960dcf476dc7211f33844a26d003bc4b1a06054f94de2cc05c836'}
+  - {seq: 13, filename: KR6x0033_013-N.yaml, hash: 'sha256:a5ad73e23cfbbcb3cb30295f0517c0c9bf20066c63aa0e2e0c15e4b81439bac9'}
+  - {seq: 14, filename: KR6x0033_014-N.yaml, hash: 'sha256:dbc43130b6ad115370aaaa636ff568b4fd4e82bf12e25d6787be35c69c874bec'}
+  - {seq: 15, filename: KR6x0033_015-N.yaml, hash: 'sha256:ce2cba85c9f40ac654dd6778817f5dd37441ec9d870db39d045365f6f5bf8585'}
+  - {seq: 16, filename: KR6x0033_016-N.yaml, hash: 'sha256:98374cb518002fa74d01cc1a5063e37d988dd5965f6effc41f127199abcda135'}
+  - {seq: 17, filename: KR6x0033_017-N.yaml, hash: 'sha256:c9a752a5dcd6f71d7ea353ab3a284380e3fdd22ec022b620a76017065e88fb2e'}
+  - {seq: 18, filename: KR6x0033_018-N.yaml, hash: 'sha256:d48b6a70d32f6d68b8d68e839427a51409c846c85b5ca77170110715cda1f2ff'}
+  - {seq: 19, filename: KR6x0033_019-N.yaml, hash: 'sha256:3bd746469bff8c6baf4232e598b0c2dabce4f389d8a7e5569609f0048286c819'}
+  - {seq: 20, filename: KR6x0033_020-N.yaml, hash: 'sha256:cd348f899e66e528bc077e423eb298e684cbb2b18a967296deefe94d4adb1aad'}
+  - {seq: 21, filename: KR6x0033_021-N.yaml, hash: 'sha256:015f5fc2ae0f83e50300aa8b9fed52e30338260701eebfb6e09cadc48be74c9c'}
+  - {seq: 22, filename: KR6x0033_022-N.yaml, hash: 'sha256:73b2cda467107219e71f64cab6c6bd53487c54aea4103f6128f82bed077a59a3'}
+  - {seq: 23, filename: KR6x0033_023-N.yaml, hash: 'sha256:5b585f24aa9b67197e420f38d9fcfd96996d4e1441ba911d354950f9b94d9247'}
+  - {seq: 24, filename: KR6x0033_024-N.yaml, hash: 'sha256:f3cb377436fa906754d7721f6646e7563e0e594a4c59532d87c8ee8d93a233a4'}
+  - {seq: 25, filename: KR6x0033_025-N.yaml, hash: 'sha256:c99ed3752a2aed9fa35676f8e873ae715c9fb5514924343580d76b48254ea8b2'}
+  - {seq: 26, filename: KR6x0033_026-N.yaml, hash: 'sha256:faa46378be8ff741a3c17909df6d640d4455a3fb41ba908643a6ed308e4c5814'}
+  - {seq: 27, filename: KR6x0033_027-N.yaml, hash: 'sha256:254645d8a583cf74622086d1ca9ab92a62af6d2c16e040a2cfc97ec073291461'}
+  - {seq: 28, filename: KR6x0033_028-N.yaml, hash: 'sha256:28867a6e866bfef8d70915a62e4c1fd48fbf46fc9793328cbceadb667e926ee6'}
+  - {seq: 29, filename: KR6x0033_029-N.yaml, hash: 'sha256:0c707673c0fff86ecfa30af5842a498436182839cfa56b0b5c7e2265384552fc'}
+  - {seq: 30, filename: KR6x0033_030-N.yaml, hash: 'sha256:29cf3ac9fa78c007f28990b0e8a7ac49b0003b8e32a892fb431e56300ea07209'}
+  - {seq: 31, filename: KR6x0033_031-N.yaml, hash: 'sha256:197fe21fff0ff5ca1f307b1187c22dba42083783ae60dc9e13712140a8624ad7'}
+  - {seq: 32, filename: KR6x0033_032-N.yaml, hash: 'sha256:fbccacf50f0e9105e97969805ef1a77b2565849371f3a19f4b39f71524540fa3'}
+  - {seq: 33, filename: KR6x0033_033-N.yaml, hash: 'sha256:f4f02a90c1daf854a474872d68a9abe3af3d6d920d06dde0aa4c2a671923a943'}
+  - {seq: 34, filename: KR6x0033_034-N.yaml, hash: 'sha256:fd5fe7b9047ad663cf53088ff94d33c20c19d028227fd9d2b3fc8332e667ee7e'}
+  - {seq: 35, filename: KR6x0033_035-N.yaml, hash: 'sha256:76c63d51d84b23e0adefbce1fb6e0ad50f568e8c7bfb063f501fc51bc52070e4'}
+  - {seq: 36, filename: KR6x0033_036-N.yaml, hash: 'sha256:bdb18ba481ee05a37a159a4144f47fe3e0de55b199294278931bc700c61f5971'}
+  - {seq: 37, filename: KR6x0033_037-N.yaml, hash: 'sha256:bde85128fb121668cb0839427987ecf6ec810fb319913da16668477e58e77e14'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0033_001-N.markers.yaml, hash: 'sha256:35ca69d166c8f721793ed1aeed78a1b03534f0c53d612d47e1e44fac5164b17e'}
+  - {seq: 2, role: markers, filename: assets/KR6x0033_002-N.markers.yaml, hash: 'sha256:cb8227514f53bd40df1fbe00a927fbd71770fa95f343ac976ebebe748163cec0'}
+  - {seq: 3, role: markers, filename: assets/KR6x0033_003-N.markers.yaml, hash: 'sha256:e9dee4983115906493e8bed39613edc36fd75a4ddafd93f7727ccdd99c0b9d6f'}
+  - {seq: 4, role: markers, filename: assets/KR6x0033_004-N.markers.yaml, hash: 'sha256:dc1cc4aebbf57853148242ed9e3ae9c94862b5af670f0c79aebe8c86eb24434d'}
+  - {seq: 5, role: markers, filename: assets/KR6x0033_005-N.markers.yaml, hash: 'sha256:752051c22e683b654d7f832f6bdcb17baa4cff7607a2fc1046a28be01bde910a'}
+  - {seq: 6, role: markers, filename: assets/KR6x0033_006-N.markers.yaml, hash: 'sha256:32d4ef58c020d569e628e33062e53e7368d8f87c580eb6d94ac342ac49390d51'}
+  - {seq: 7, role: markers, filename: assets/KR6x0033_007-N.markers.yaml, hash: 'sha256:a2eaefda67dd2c46b0168df1ca427f9c7c63480e9f7c97e0f2cc65066dfb5f01'}
+  - {seq: 8, role: markers, filename: assets/KR6x0033_008-N.markers.yaml, hash: 'sha256:fce3a5254133ce4ef6438e7e15d04d562b811c1b22e0b62ea41b870313f8aea0'}
+  - {seq: 9, role: markers, filename: assets/KR6x0033_009-N.markers.yaml, hash: 'sha256:5d1df865ae67e0028ee8f3920cf06f07e75af3d03093083c2265e6b2d95f8edd'}
+  - {seq: 10, role: markers, filename: assets/KR6x0033_010-N.markers.yaml, hash: 'sha256:fdf5709d53d45cbc157a80707ce45ff707288bfe68819acb86f85bbfc31d6ce8'}
+  - {seq: 11, role: markers, filename: assets/KR6x0033_011-N.markers.yaml, hash: 'sha256:2abdb88a0c0223855b46b56ff908219b3a75de2d0324145fd674f0997cfbfac6'}
+  - {seq: 12, role: markers, filename: assets/KR6x0033_012-N.markers.yaml, hash: 'sha256:8ef29a48a8aa78d7f8fe410d724fd5e6fdfed4ef7e5296536430e3f4bab9fe13'}
+  - {seq: 13, role: markers, filename: assets/KR6x0033_013-N.markers.yaml, hash: 'sha256:502fc74ee41e4eb1bae243bde50f3f50fe5c46224308043244b77d956dced128'}
+  - {seq: 14, role: markers, filename: assets/KR6x0033_014-N.markers.yaml, hash: 'sha256:56ed77be14459cefa2c655ac9582f73c7055ffaa1b8025d08037ccb2ee20b9af'}
+  - {seq: 15, role: markers, filename: assets/KR6x0033_015-N.markers.yaml, hash: 'sha256:24024d6760f06ea79be17167dd3b3907feae737615c4e0c83fda1c184b56d799'}
+  - {seq: 16, role: markers, filename: assets/KR6x0033_016-N.markers.yaml, hash: 'sha256:7649fc9881ac4a8900527311e262f70a30982117785ab3634082c24869e99ea3'}
+  - {seq: 17, role: markers, filename: assets/KR6x0033_017-N.markers.yaml, hash: 'sha256:b9d96911de8b26d941572ddf33c88031026a7c274f1c153c59b98985152694d8'}
+  - {seq: 18, role: markers, filename: assets/KR6x0033_018-N.markers.yaml, hash: 'sha256:d92531f37fb1fc950c8e0ead605b5985c014a5f2ed8b6b20801f4a2ec20cc200'}
+  - {seq: 19, role: markers, filename: assets/KR6x0033_019-N.markers.yaml, hash: 'sha256:5ae478e8b375c94c0746ba1166814817f995f6587c45022b1693bcb2c705138f'}
+  - {seq: 20, role: markers, filename: assets/KR6x0033_020-N.markers.yaml, hash: 'sha256:bc2de50f13013737e0893014970e69d7dfab8c7bc903b8f0cfdc60a745aead14'}
+  - {seq: 21, role: markers, filename: assets/KR6x0033_021-N.markers.yaml, hash: 'sha256:b94d99ac8595d3d14eae0b423a48506a4fe84814e8851e60a520c478e3050d1c'}
+  - {seq: 22, role: markers, filename: assets/KR6x0033_022-N.markers.yaml, hash: 'sha256:d78875ab11aa1f5923146d2a286dd43fbf62da7ee18169ba9a4e5304b753fd60'}
+  - {seq: 23, role: markers, filename: assets/KR6x0033_023-N.markers.yaml, hash: 'sha256:21a61099e4b4ec016d1bf5ad380d30059d5394f2b140041a6dcdba8c803cb1cd'}
+  - {seq: 24, role: markers, filename: assets/KR6x0033_024-N.markers.yaml, hash: 'sha256:5ed293750d64b6aecf3f41ce7393029bc4bbf130850627f47596a41082658692'}
+  - {seq: 25, role: markers, filename: assets/KR6x0033_025-N.markers.yaml, hash: 'sha256:7c2bc6bc8cfe032cbdc540bdcc8df473f1166e01f93e13323860260ad0510d55'}
+  - {seq: 26, role: markers, filename: assets/KR6x0033_026-N.markers.yaml, hash: 'sha256:d09d3fbc5cae90d018f09d6ad4d5b1fb06823aefe070e06de3d1e931ff7c5112'}
+  - {seq: 27, role: markers, filename: assets/KR6x0033_027-N.markers.yaml, hash: 'sha256:3486d8474d94e85d68597a30cd2cb813f65b9d47fd4ef760cdfcc05a39d052fb'}
+  - {seq: 28, role: markers, filename: assets/KR6x0033_028-N.markers.yaml, hash: 'sha256:a641d4d43e11554a6bc31efde915ce7c3f3ddde6d7c9042c84c0b1607740a93f'}
+  - {seq: 29, role: markers, filename: assets/KR6x0033_029-N.markers.yaml, hash: 'sha256:8635a890b0dcb8a6cf8607f930612fce42b6b14946e15a971b3fd6dca9eaeed9'}
+  - {seq: 30, role: markers, filename: assets/KR6x0033_030-N.markers.yaml, hash: 'sha256:e6c2fd97794c0fb8d29c4dc43f8e86ba9e0d835328534ec87c9eba0586c57db7'}
+  - {seq: 31, role: markers, filename: assets/KR6x0033_031-N.markers.yaml, hash: 'sha256:3fd725349cf1ee82f9e972de16d186dc3a1b27124828c38fe68c94651e6641f1'}
+  - {seq: 32, role: markers, filename: assets/KR6x0033_032-N.markers.yaml, hash: 'sha256:4dba2e735dbdc4d1f3bd7863cd5657119e57fd924f4124f8cd9fcee6f07d6609'}
+  - {seq: 33, role: markers, filename: assets/KR6x0033_033-N.markers.yaml, hash: 'sha256:bb1952570cfe345ff2a95c7b5246ee84386d75036be2de590d80afdad5ae0da5'}
+  - {seq: 34, role: markers, filename: assets/KR6x0033_034-N.markers.yaml, hash: 'sha256:2154dfc7f27c8982b8f754496a47fea60ddbb194869934bcddde8550ab472615'}
+  - {seq: 35, role: markers, filename: assets/KR6x0033_035-N.markers.yaml, hash: 'sha256:10fa3fd60ba56fb69fe62c51b199120d2f16e415c66718d199f0fa79846db9af'}
+  - {seq: 36, role: markers, filename: assets/KR6x0033_036-N.markers.yaml, hash: 'sha256:29fab45b5fd5366ea1ec51db309662fb9a577d3a8888ec20bedb6b17c7d0693d'}
+  - {seq: 37, role: markers, filename: assets/KR6x0033_037-N.markers.yaml, hash: 'sha256:1bb5b279fa77aeb8dbee0d907942ee7a66d2ba961f91b6cafde7b0d085776af7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0033_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 2438
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0033_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第一章　如來來降〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0033_N_002-juan-start
+    span:
+    - body
+    - 0
+    - 1014
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0033_N_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二章　摩訶三摩多王統〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6x0033_N_003-juan-start
+    span:
+    - body
+    - 0
+    - 1198
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6x0033_N_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三章　第一結集〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6x0033_N_004-juan-start
+    span:
+    - body
+    - 0
+    - 1904
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6x0033_N_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第四章　第二結集〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6x0033_N_005-juan-start
+    span:
+    - body
+    - 0
+    - 7778
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6x0033_N_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第五章　第三結集〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6x0033_N_006-juan-start
+    span:
+    - body
+    - 0
+    - 1258
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6x0033_N_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第六章　毘闍耶之來島〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6x0033_N_007-juan-start
+    span:
+    - body
+    - 0
+    - 2120
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6x0033_N_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第七章　毘闍耶之即位〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6x0033_N_008-juan-start
+    span:
+    - body
+    - 0
+    - 779
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6x0033_N_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第八章　般多偉須提瓦之即位〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6x0033_N_009-juan-start
+    span:
+    - body
+    - 0
+    - 822
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6x0033_N_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第九章　阿婆耶之即位〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6x0033_N_010-juan-start
+    span:
+    - body
+    - 0
+    - 2922
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6x0033_N_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十章　般多伽婆耶之即位〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6x0033_N_011-juan-start
+    span:
+    - body
+    - 0
+    - 1163
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6x0033_N_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十一章　天愛帝須之即位〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6x0033_N_012-juan-start
+    span:
+    - body
+    - 0
+    - 1493
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6x0033_N_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十二章　各地方之信心〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6x0033_N_013-juan-start
+    span:
+    - body
+    - 0
+    - 610
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6x0033_N_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十三章　摩哂陀來島〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6x0033_N_014-juan-start
+    span:
+    - body
+    - 0
+    - 1712
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6x0033_N_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十四章　長老之入都〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6x0033_N_015-juan-start
+    span:
+    - body
+    - 0
+    - 5481
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6x0033_N_015-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十五章　受納大精舍〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6x0033_N_016-juan-start
+    span:
+    - body
+    - 0
+    - 516
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6x0033_N_016-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十六章　受納支提耶山精舍〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6x0033_N_017-juan-start
+    span:
+    - body
+    - 0
+    - 1699
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6x0033_N_017-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十七章　舍利來島〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6x0033_N_018-juan-start
+    span:
+    - body
+    - 0
+    - 1731
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6x0033_N_018-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十八章　受納大菩提樹〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6x0033_N_019-juan-start
+    span:
+    - body
+    - 0
+    - 2239
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6x0033_N_019-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第十九章　菩提樹來島〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6x0033_N_020-juan-start
+    span:
+    - body
+    - 0
+    - 1629
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6x0033_N_020-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十章　長老入滅〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6x0033_N_021-juan-start
+    span:
+    - body
+    - 0
+    - 931
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6x0033_N_021-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十一章　六王章〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6x0033_N_022-juan-start
+    span:
+    - body
+    - 0
+    - 2301
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6x0033_N_022-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十二章　伽摩尼王子誕生〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6x0033_N_023-juan-start
+    span:
+    - body
+    - 0
+    - 2647
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6x0033_N_023-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十三章　戰士獲得〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6x0033_N_024-juan-start
+    span:
+    - body
+    - 0
+    - 1597
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6x0033_N_024-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十四　兄弟交戰〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6x0033_N_025-juan-start
+    span:
+    - body
+    - 0
+    - 3159
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6x0033_N_025-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十五章　睹多伽摩尼之勝利〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6x0033_N_026-juan-start
+    span:
+    - body
+    - 0
+    - 669
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6x0033_N_026-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十六章　摩利闍越提精舍之祭〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6x0033_N_027-juan-start
+    span:
+    - body
+    - 0
+    - 1232
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6x0033_N_027-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十七章　青銅殿祭〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6x0033_N_028-juan-start
+    span:
+    - body
+    - 0
+    - 1160
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6x0033_N_028-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十八章　得大塔建造之資材〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6x0033_N_029-juan-start
+    span:
+    - body
+    - 0
+    - 1828
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6x0033_N_029-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第二十九章　大塔建造之初〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6x0033_N_030-juan-start
+    span:
+    - body
+    - 0
+    - 2734
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6x0033_N_030-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十章　舍利室裝置〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6x0033_N_031-juan-start
+    span:
+    - body
+    - 0
+    - 3266
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6x0033_N_031-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十一章　舍利奉安〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6x0033_N_032-juan-start
+    span:
+    - body
+    - 0
+    - 2124
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6x0033_N_032-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十二章　上生兜率宮〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6x0033_N_033-juan-start
+    span:
+    - body
+    - 0
+    - 2915
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6x0033_N_033-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十三章　十王章〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6x0033_N_034-juan-start
+    span:
+    - body
+    - 0
+    - 2385
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6x0033_N_034-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十四章　十一王章〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6x0033_N_035-juan-start
+    span:
+    - body
+    - 0
+    - 3240
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6x0033_N_035-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十五章　十二王章〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6x0033_N_036-juan-start
+    span:
+    - body
+    - 0
+    - 3397
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6x0033_N_036-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十六章　十三王章〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6x0033_N_037-juan-start
+    span:
+    - body
+    - 0
+    - 1351
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6x0033_N_037-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 〔第三十七章　摩訶闍那〕
+  type: mulu
+  level: 1
+hash: sha256:c77783433e9e6d05742afa36b2af68969085490b3155e8a2911c8f5f886b9627
