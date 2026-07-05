@@ -115,16 +115,13 @@ markers:
   - {type: punctuation, offset: 447, content: 。, id: KR6x0033_N_016-bkkpn89}
   - {type: punctuation, offset: 447, content: （, id: KR6x0033_N_016-bkkpn90}
   - {type: punctuation, offset: 449, content: ）, id: KR6x0033_N_016-bkkpn91}
-  - {type: substitution, offset: 454, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 455, content: ，, id: KR6x0033_N_016-bkkpn92}
   - {type: punctuation, offset: 460, content: ，, id: KR6x0033_N_016-bkkpn93}
-  - {type: substitution, offset: 463, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 464, content: 〔, id: KR6x0033_N_016-bkkpn94}
   - {type: punctuation, offset: 471, content: 〕, id: KR6x0033_N_016-bkkpn95}
   - {type: line-break, offset: 473, content: '', id: KR6x0033_N_016-0243a10, ed: 'N', 'n': 0243a10}
   - {type: punctuation, offset: 473, content: 〔, id: KR6x0033_N_016-bkkpn96}
   - {type: punctuation, offset: 475, content: 〕, id: KR6x0033_N_016-bkkpn97}
-  - {type: substitution, offset: 475, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 480, content: ，, id: KR6x0033_N_016-bkkpn98}
   - {type: punctuation, offset: 486, content: 。, id: KR6x0033_N_016-bkkpn99}
   - {type: punctuation, offset: 486, content: （, id: KR6x0033_N_016-bkkpn100}
@@ -146,4 +143,4 @@ markers:
   - {type: line-break, offset: 516, content: '', id: KR6x0033_N_016-0244a01, ed: 'N', 'n': 0244a01}
   - {type: line-break, offset: 516, content: '', id: KR6x0033_N_016-0244a02, ed: 'N', 'n': 0244a02}
   back: []
-hash: sha256:eda1e8d3ece21c332015786d24f4fc5c356d0299f49469c5cbef9bc600dd5c94
+hash: sha256:63178b14683030b7df8d64fee8449f36e9a7a193de0c69dda8253bb47ca51e76
